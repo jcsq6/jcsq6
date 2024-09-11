@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**jcsq6/jcsq6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+**Name**: JC Squires  
+**Email**: jcsquires22@gmail.com  
+**Description**: I am a 21 year old software developer, and I've been programming for over 9 years. I have hundreds of projects I've worked on over the years, and all of my favorites are public here.  
+**Education**: I am currently working on a bachelors of computer science and mathematics at the University of Tennessee, Knoxville.  
+### Skills
+  - **C++**: 8 years of C++ experience.
+  - **C**: 8 years of C experience.
+  - **Python**: 4 years of Python experience.
+  - **OpenGL/graphics programming**: 4 years of experience.
+  - **Unix systems programming/driver development**: 3 years of experience.
